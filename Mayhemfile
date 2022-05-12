@@ -1,0 +1,5 @@
+project: jacob-clemente/ELFkickers
+target: ebfc
+
+cmds:
+  - cmd: /ebfc @@
