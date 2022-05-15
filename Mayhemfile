@@ -1,4 +1,4 @@
-project: jacob-clemente/ELFkickers
+project: ELFkickers
 target: ebfc
 
 cmds:
